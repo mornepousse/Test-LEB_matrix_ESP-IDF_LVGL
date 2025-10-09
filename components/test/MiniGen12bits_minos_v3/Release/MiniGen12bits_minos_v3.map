@@ -1,0 +1,657 @@
+Archive member included to satisfy reference by file (symbol)
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                              ./src/cr_startup_lpc11.o (SystemInit)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                              ./src/MemoryFileSystem.o (memcpy)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11.o (__main)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                              ./src/main.o (__aeabi_uidiv)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                              ./src/uart.o (__gnu_thumb1_case_uqi)
+
+Allocating common symbols
+Common symbol       size              file
+
+readBuffer          0x4               ./src/SpiDac.o
+audioBufferA        0x800             ./src/SpiDac.o
+audioBufferB        0x800             ./src/SpiDac.o
+fileEntryParams     0x20              ./src/MemoryFileSystem.o
+posX                0x2               ./src/SpiDac.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/MemoryFileSystem.o
+ .data          0x00000000        0x0 ./src/MemoryFileSystem.o
+ .bss           0x00000000        0x0 ./src/MemoryFileSystem.o
+ .text.MemoryOpenFile
+                0x00000000        0x4 ./src/MemoryFileSystem.o
+ .text          0x00000000        0x0 ./src/SPI_W25Qxx.o
+ .data          0x00000000        0x0 ./src/SPI_W25Qxx.o
+ .bss           0x00000000        0x0 ./src/SPI_W25Qxx.o
+ .text.SpiMemoryCsHigh
+                0x00000000       0x18 ./src/SPI_W25Qxx.o
+ .text.SpiMemoryCsLow
+                0x00000000       0x18 ./src/SPI_W25Qxx.o
+ .text.W25Q_WriteDisable
+                0x00000000       0x14 ./src/SPI_W25Qxx.o
+ .text.W25Q_ReadStatusRegisterHigh
+                0x00000000       0x1e ./src/SPI_W25Qxx.o
+ .text.W25Q_WriteStatusRegisterLow
+                0x00000000       0x20 ./src/SPI_W25Qxx.o
+ .text.W25Q_WriteStatusRegister
+                0x00000000       0x28 ./src/SPI_W25Qxx.o
+ .text.W25Q_FastRead
+                0x00000000       0x48 ./src/SPI_W25Qxx.o
+ .text.W25Q_BlockErase32K
+                0x00000000       0x34 ./src/SPI_W25Qxx.o
+ .text.W25Q_BlockErase64K
+                0x00000000       0x34 ./src/SPI_W25Qxx.o
+ .text.W25Q_ChipErase
+                0x00000000       0x1c ./src/SPI_W25Qxx.o
+ .text.W25Q_ReadDeviceId
+                0x00000000       0x30 ./src/SPI_W25Qxx.o
+ .text.W25Q_ReadUniqueId
+                0x00000000       0x40 ./src/SPI_W25Qxx.o
+ .text.W25Q_ReadJEDEDId
+                0x00000000       0x34 ./src/SPI_W25Qxx.o
+ .text          0x00000000        0x0 ./src/SpiDac.o
+ .data          0x00000000        0x0 ./src/SpiDac.o
+ .bss           0x00000000        0x0 ./src/SpiDac.o
+ .text.SpiDacWriteByte
+                0x00000000        0xc ./src/SpiDac.o
+ .bss.audioIndex
+                0x00000000        0x4 ./src/SpiDac.o
+ .bss.posY      0x00000000        0x2 ./src/SpiDac.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text.ReadInputMode
+                0x00000000       0xcc ./src/main.o
+ .text          0x00000000        0x0 ./src/uart.o
+ .data          0x00000000        0x0 ./src/uart.o
+ .bss           0x00000000        0x0 ./src/uart.o
+ .text.UARTSend
+                0x00000000       0x24 ./src/uart.o
+ .text.UARTGetReceivedByte
+                0x00000000        0xc ./src/uart.o
+ .text.UARTPuts
+                0x00000000       0x20 ./src/uart.o
+ .text.UARTSendChar
+                0x00000000       0x34 ./src/uart.o
+ .text.UARTSendHex
+                0x00000000       0xa4 ./src/uart.o
+ .text          0x00000000        0x0 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .data          0x00000000        0x0 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .bss           0x00000000        0x0 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x9c E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .rodata.CSWTCH.6
+                0x00000000       0x40 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset_lowlevel
+                0x00000000       0x2a c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_sqi
+                0x00000000       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_shi
+                0x00000000       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_uhi
+                0x00000000       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_si
+                0x00000000       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/MemoryFileSystem.o
+LOAD ./src/SPI_W25Qxx.o
+LOAD ./src/SpiDac.o
+LOAD ./src/cr_startup_lpc11.o
+LOAD ./src/main.o
+LOAD ./src/uart.o
+LOAD E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash32 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00008000                __top_MFlash32 = 0x8000
+                0x00008000                __top_Flash = 0x8000
+                0x10000000                __base_RamLoc8 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10002000                __top_RamLoc8 = 0x10002000
+                0x10002000                __top_RAM = 0x10002000
+
+.text           0x00000000     0x1bb4
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x1bb4 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x8 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000008 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x1108 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x70 ./src/cr_startup_lpc11.o
+                0x000000d4                NMI_Handler
+                0x000000d6                HardFault_Handler
+                0x000000d8                SVC_Handler
+                0x000000da                PendSV_Handler
+                0x000000dc                SysTick_Handler
+                0x000000de                TIMER32_0_IRQHandler
+                0x000000de                UART_IRQHandler
+                0x000000de                TIMER32_1_IRQHandler
+                0x000000de                IntDefaultHandler
+                0x000000de                PIOINT1_IRQHandler
+                0x000000de                CAN_IRQHandler
+                0x000000de                SSP0_IRQHandler
+                0x000000de                I2C_IRQHandler
+                0x000000de                ADC_IRQHandler
+                0x000000de                SSP1_IRQHandler
+                0x000000de                PIOINT2_IRQHandler
+                0x000000de                WAKEUP_IRQHandler
+                0x000000de                PIOINT0_IRQHandler
+                0x000000de                PIOINT3_IRQHandler
+                0x000000e0                data_init
+                0x000000f2                bss_init
+                0x00000102                ResetISR
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000144      0x1b8 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.MemoryFormat
+                0x00000300       0x7c ./src/MemoryFileSystem.o
+                0x00000300                MemoryFormat
+ .text.MemoryGetNextFreeSector
+                0x0000037c       0x2a ./src/MemoryFileSystem.o
+                0x0000037c                MemoryGetNextFreeSector
+ *fill*         0x000003a6        0x2 ff
+ .text.MemoryWriteFile
+                0x000003a8       0xa8 ./src/MemoryFileSystem.o
+                0x000003a8                MemoryWriteFile
+ .text.MemoryCloseFile
+                0x00000450       0x24 ./src/MemoryFileSystem.o
+                0x00000450                MemoryCloseFile
+ .text.GetNextSectorAddress
+                0x00000474       0x30 ./src/MemoryFileSystem.o
+                0x00000474                GetNextSectorAddress
+ .text.MemoryReadFile
+                0x000004a4       0x9c ./src/MemoryFileSystem.o
+                0x000004a4                MemoryReadFile
+ .text.MemoryGetNextEntry
+                0x00000540       0xe0 ./src/MemoryFileSystem.o
+                0x00000540                MemoryGetNextEntry
+ .text.MemoryCreateFile
+                0x00000620       0xac ./src/MemoryFileSystem.o
+                0x00000620                MemoryCreateFile
+ .text.MemoryDecodeAudioFile
+                0x000006cc       0x88 ./src/MemoryFileSystem.o
+                0x000006cc                MemoryDecodeAudioFile
+ .text.MemoryReadFirstDate
+                0x00000754       0x28 ./src/MemoryFileSystem.o
+                0x00000754                MemoryReadFirstDate
+ .text.SpiMemoryChipSelect.part.0
+                0x0000077c       0x18 ./src/SPI_W25Qxx.o
+ .text.SpiMemoryInit
+                0x00000794       0xac ./src/SPI_W25Qxx.o
+                0x00000794                SpiMemoryInit
+ .text.SpiMemoryReadWriteByte
+                0x00000840       0x28 ./src/SPI_W25Qxx.o
+                0x00000840                SpiMemoryReadWriteByte
+ .text.SpiMemoryChipSelect
+                0x00000868       0x24 ./src/SPI_W25Qxx.o
+                0x00000868                SpiMemoryChipSelect
+ .text.W25Q_WriteEnable
+                0x0000088c       0x14 ./src/SPI_W25Qxx.o
+                0x0000088c                W25Q_WriteEnable
+ .text.W25Q_ReadStatusRegisterLow
+                0x000008a0       0x1e ./src/SPI_W25Qxx.o
+                0x000008a0                W25Q_ReadStatusRegisterLow
+ .text.W25Q_WaitMemoryReady
+                0x000008be        0xe ./src/SPI_W25Qxx.o
+                0x000008be                W25Q_WaitMemoryReady
+ .text.W25Q_Read
+                0x000008cc       0x46 ./src/SPI_W25Qxx.o
+                0x000008cc                W25Q_Read
+ .text.W25Q_PageProgram
+                0x00000912       0x48 ./src/SPI_W25Qxx.o
+                0x00000912                W25Q_PageProgram
+ .text.W25Q_SectorErase
+                0x0000095a       0x34 ./src/SPI_W25Qxx.o
+                0x0000095a                W25Q_SectorErase
+ .text.W25Q_ReadManfDeviceId
+                0x0000098e       0x3c ./src/SPI_W25Qxx.o
+                0x0000098e                W25Q_ReadManfDeviceId
+ .text.W25Q_ReadUniqueIdString
+                0x000009ca       0x64 ./src/SPI_W25Qxx.o
+                0x000009ca                W25Q_ReadUniqueIdString
+ *fill*         0x00000a2e        0x2 ff
+ .text.InitAudioTimer
+                0x00000a30       0x48 ./src/SpiDac.o
+                0x00000a30                InitAudioTimer
+ .text.AudioWriteDualBuffer
+                0x00000a78       0x60 ./src/SpiDac.o
+                0x00000a78                AudioWriteDualBuffer
+ .text.AudioDualBufferReady
+                0x00000ad8       0x24 ./src/SpiDac.o
+                0x00000ad8                AudioDualBufferReady
+ .text.SpiDacInit
+                0x00000afc       0x88 ./src/SpiDac.o
+                0x00000afc                SpiDacInit
+ .text.SpiDacWriteValue
+                0x00000b84       0x4c ./src/SpiDac.o
+                0x00000b84                SpiDacWriteValue
+ .text.TIMER16_0_IRQHandler
+                0x00000bd0       0xa4 ./src/SpiDac.o
+                0x00000bd0                TIMER16_0_IRQHandler
+ .text.Init1000HzTimer
+                0x00000c74       0x48 ./src/main.o
+                0x00000c74                Init1000HzTimer
+ .text.BOD_IRQHandler
+                0x00000cbc       0x18 ./src/main.o
+                0x00000cbc                BOD_IRQHandler
+ .text.WDT_IRQHandler
+                0x00000cd4       0x18 ./src/main.o
+                0x00000cd4                WDT_IRQHandler
+ .text.InitButtonPinFunction
+                0x00000cec       0x74 ./src/main.o
+                0x00000cec                InitButtonPinFunction
+ .text.ADCInit  0x00000d60       0x60 ./src/main.o
+                0x00000d60                ADCInit
+ .text.ADCRead  0x00000dc0       0x54 ./src/main.o
+                0x00000dc0                ADCRead
+ .text.TIMER16_1_IRQHandler
+                0x00000e14      0x3cc ./src/main.o
+                0x00000e14                TIMER16_1_IRQHandler
+ .text.WatchdogInit
+                0x000011e0       0x4c ./src/main.o
+                0x000011e0                WatchdogInit
+ .text.WatchdogFeed
+                0x0000122c       0x10 ./src/main.o
+                0x0000122c                WatchdogFeed
+ .text.startup.main
+                0x0000123c      0x4d8 ./src/main.o
+                0x0000123c                main
+ .text.UARTInit
+                0x00001714       0xac ./src/uart.o
+                0x00001714                UARTInit
+ .text.UARTIsDataReceived
+                0x000017c0       0x10 ./src/uart.o
+                0x000017c0                UARTIsDataReceived
+ .text.UARTParseCommand
+                0x000017d0      0x11c ./src/uart.o
+                0x000017d0                UARTParseCommand
+ .text.UARTSendCommand
+                0x000018ec       0x64 ./src/uart.o
+                0x000018ec                UARTSendCommand
+ .text.strCopy  0x00001950       0x24 ./src/uart.o
+                0x00001950                strCopy
+ .text.strInt8ToString
+                0x00001974       0x3e ./src/uart.o
+                0x00001974                strInt8ToString
+ *fill*         0x000019b2        0x2 ff
+ .text.SystemInit
+                0x000019b4       0x70 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                0x000019b4                SystemInit
+ .text.memcpy   0x00001a24        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                0x00001a24                memcpy
+ .text.__weak_main
+                0x00001a2c        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00001a2c                __weak_main
+                0x00001a2c                __main
+ .text.__aeabi_division_idivmod
+                0x00001a34       0x78 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                0x00001a34                __aeabi_idivmod
+                0x00001a34                __aeabi_idiv
+                0x00001a3a                __aeabi_uidivmod
+                0x00001a3a                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00001aac        0x2 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                0x00001aac                __aeabi_idiv0
+ .text.__aeabi_memcpy
+                0x00001aae       0x2c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+                0x00001aae                __aeabi_memcpy4
+                0x00001aae                __aeabi_memcpy8
+                0x00001aae                __aeabi_memcpy
+ .text.__gnu_thumb1_case_uqi
+                0x00001ada       0x10 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x00001ada                __gnu_thumb1_case_uqi
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00001aea       0x20 ./src/MemoryFileSystem.o
+ .rodata        0x00001b0a        0x6 ./src/main.o
+ .rodata.str1.1
+                0x00001b10       0xa2 ./src/main.o
+                0x00001bb4                . = ALIGN (0x4)
+ *fill*         0x00001bb2        0x2 ff
+
+.glue_7         0x00001bb4        0x0
+ .glue_7        0x00001bb4        0x0 linker stubs
+
+.glue_7t        0x00001bb4        0x0
+ .glue_7t       0x00001bb4        0x0 linker stubs
+
+.vfp11_veneer   0x00001bb4        0x0
+ .vfp11_veneer  0x00001bb4        0x0 linker stubs
+
+.v4_bx          0x00001bb4        0x0
+ .v4_bx         0x00001bb4        0x0 linker stubs
+
+.iplt           0x00001bb4        0x0
+ .iplt          0x00001bb4        0x0 ./src/MemoryFileSystem.o
+
+.rel.dyn        0x00001bb4        0x0
+ .rel.iplt      0x00001bb4        0x0 ./src/MemoryFileSystem.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001bb4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001bb4                __exidx_end = .
+                0x00001bb4                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x8 load address 0x00001bb4
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.currentBufferId
+                0x10000000        0x4 ./src/SpiDac.o
+                0x10000000                currentBufferId
+ .data.SystemCoreClock
+                0x10000004        0x4 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                0x10000004                SystemCoreClock
+                0x10000008                . = ALIGN (0x4)
+                0x10000008                _edata = .
+
+.igot.plt       0x10000008        0x0 load address 0x00001bbc
+ .igot.plt      0x10000008        0x0 ./src/MemoryFileSystem.o
+
+.bss            0x10000008     0x1108 load address 0x00001bbc
+                0x10000008                _bss = .
+ *(.bss*)
+ .bss.currentFileOffset
+                0x10000008        0x4 ./src/MemoryFileSystem.o
+                0x10000008                currentFileOffset
+ .bss.currentEntryAddress
+                0x1000000c        0x4 ./src/MemoryFileSystem.o
+                0x1000000c                currentEntryAddress
+ .bss.currentFileAddress
+                0x10000010        0x4 ./src/MemoryFileSystem.o
+                0x10000010                currentFileAddress
+ .bss.currentFileSize
+                0x10000014        0x4 ./src/MemoryFileSystem.o
+                0x10000014                currentFileSize
+ .bss.countBufferA
+                0x10000018        0x4 ./src/SpiDac.o
+                0x10000018                countBufferA
+ .bss.countBufferB
+                0x1000001c        0x4 ./src/SpiDac.o
+                0x1000001c                countBufferB
+ .bss.readLength
+                0x10000020        0x4 ./src/SpiDac.o
+                0x10000020                readLength
+ .bss.readIndex
+                0x10000024        0x4 ./src/SpiDac.o
+                0x10000024                readIndex
+ .bss.BP_5      0x10000028       0x10 ./src/main.o
+ .bss.BP_6      0x10000038       0x10 ./src/main.o
+ .bss.BP_7      0x10000048       0x10 ./src/main.o
+ .bss.BP_8      0x10000058       0x10 ./src/main.o
+ .bss.BP_4      0x10000068       0x10 ./src/main.o
+ .bss.BP1       0x10000078       0x10 ./src/main.o
+ .bss.BP2       0x10000088       0x10 ./src/main.o
+ .bss.i.4474    0x10000098        0x4 ./src/main.o
+ .bss.buttonPrescaler
+                0x1000009c        0x4 ./src/main.o
+ .bss.slowTimerPrescaler
+                0x100000a0        0x4 ./src/main.o
+ .bss.slowTimerFlag
+                0x100000a4        0x1 ./src/main.o
+ *fill*         0x100000a5        0x3 
+ .bss.BP_1      0x100000a8       0x10 ./src/main.o
+ .bss.BP_2      0x100000b8       0x10 ./src/main.o
+ .bss.BP_3      0x100000c8       0x10 ./src/main.o
+ .bss.rxCommandType
+                0x100000d8        0x1 ./src/uart.o
+ .bss.rxState   0x100000d9        0x1 ./src/uart.o
+ .bss.rxCommandChecksum
+                0x100000da        0x2 ./src/uart.o
+ .bss.rxCommandLength
+                0x100000dc        0x2 ./src/uart.o
+ .bss.previousRxByte
+                0x100000de        0x1 ./src/uart.o
+ *fill*         0x100000df        0x1 
+ .bss.rxCommandRcvChecksum
+                0x100000e0        0x2 ./src/uart.o
+ .bss.rxCommandIndex
+                0x100000e2        0x2 ./src/uart.o
+ .bss.rxTimeout
+                0x100000e4        0x4 ./src/uart.o
+ *(COMMON)
+ COMMON         0x100000e8       0x20 ./src/MemoryFileSystem.o
+                0x100000e8                fileEntryParams
+ COMMON         0x10000108     0x1006 ./src/SpiDac.o
+                0x10000108                readBuffer
+                0x1000010c                audioBufferA
+                0x1000090c                audioBufferB
+                0x1000110c                posX
+                0x10001110                . = ALIGN (0x4)
+ *fill*         0x1000110e        0x2 
+                0x10001110                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x10001110        0x0 load address 0x00001bbc
+                0x10001110                _noinit = .
+ *(.noinit*)
+                0x10001110                . = ALIGN (0x4)
+                0x10001110                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(MiniGen12bits_minos_v3.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x5ac9
+ .debug_info    0x00000000      0x902 ./src/MemoryFileSystem.o
+ .debug_info    0x00000902     0x1691 ./src/SPI_W25Qxx.o
+ .debug_info    0x00001f93      0xd31 ./src/SpiDac.o
+ .debug_info    0x00002cc4      0x281 ./src/cr_startup_lpc11.o
+ .debug_info    0x00002f45     0x1913 ./src/main.o
+ .debug_info    0x00004858      0xd6f ./src/uart.o
+ .debug_info    0x000055c7      0x502 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_abbrev   0x00000000      0xfeb
+ .debug_abbrev  0x00000000      0x1f8 ./src/MemoryFileSystem.o
+ .debug_abbrev  0x000001f8      0x2d4 ./src/SPI_W25Qxx.o
+ .debug_abbrev  0x000004cc      0x2bf ./src/SpiDac.o
+ .debug_abbrev  0x0000078b      0x11c ./src/cr_startup_lpc11.o
+ .debug_abbrev  0x000008a7      0x399 ./src/main.o
+ .debug_abbrev  0x00000c40      0x2bf ./src/uart.o
+ .debug_abbrev  0x00000eff       0xec E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_loc      0x00000000     0x1c90
+ .debug_loc     0x00000000      0x7d7 ./src/MemoryFileSystem.o
+ .debug_loc     0x000007d7      0x719 ./src/SPI_W25Qxx.o
+ .debug_loc     0x00000ef0       0xff ./src/SpiDac.o
+ .debug_loc     0x00000fef      0x1d4 ./src/cr_startup_lpc11.o
+ .debug_loc     0x000011c3      0x4af ./src/main.o
+ .debug_loc     0x00001672      0x541 ./src/uart.o
+ .debug_loc     0x00001bb3       0xdd E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_aranges  0x00000000      0x308
+ .debug_aranges
+                0x00000000       0x70 ./src/MemoryFileSystem.o
+ .debug_aranges
+                0x00000070       0xe0 ./src/SPI_W25Qxx.o
+ .debug_aranges
+                0x00000150       0x50 ./src/SpiDac.o
+ .debug_aranges
+                0x000001a0       0x60 ./src/cr_startup_lpc11.o
+ .debug_aranges
+                0x00000200       0x70 ./src/main.o
+ .debug_aranges
+                0x00000270       0x70 ./src/uart.o
+ .debug_aranges
+                0x000002e0       0x28 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_ranges   0x00000000      0x2c8
+ .debug_ranges  0x00000000       0x60 ./src/MemoryFileSystem.o
+ .debug_ranges  0x00000060       0xd0 ./src/SPI_W25Qxx.o
+ .debug_ranges  0x00000130       0x40 ./src/SpiDac.o
+ .debug_ranges  0x00000170       0x50 ./src/cr_startup_lpc11.o
+ .debug_ranges  0x000001c0       0x60 ./src/main.o
+ .debug_ranges  0x00000220       0x90 ./src/uart.o
+ .debug_ranges  0x000002b0       0x18 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_line     0x00000000     0x1543
+ .debug_line    0x00000000      0x2e9 ./src/MemoryFileSystem.o
+ .debug_line    0x000002e9      0x36b ./src/SPI_W25Qxx.o
+ .debug_line    0x00000654      0x1ff ./src/SpiDac.o
+ .debug_line    0x00000853       0xd7 ./src/cr_startup_lpc11.o
+ .debug_line    0x0000092a      0x52e ./src/main.o
+ .debug_line    0x00000e58      0x314 ./src/uart.o
+ .debug_line    0x0000116c      0x3d7 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_str      0x00000000     0x15cf
+ .debug_str     0x00000000      0x493 ./src/MemoryFileSystem.o
+                                0x4d0 (size before relaxing)
+ .debug_str     0x00000493      0x61c ./src/SPI_W25Qxx.o
+                                0x82a (size before relaxing)
+ .debug_str     0x00000aaf      0x30c ./src/SpiDac.o
+                                0x8da (size before relaxing)
+ .debug_str     0x00000dbb      0x140 ./src/cr_startup_lpc11.o
+                                0x2b6 (size before relaxing)
+ .debug_str     0x00000efb      0x44d ./src/main.o
+                                0xd39 (size before relaxing)
+ .debug_str     0x00001348      0x203 ./src/uart.o
+                                0xa05 (size before relaxing)
+ .debug_str     0x0000154b       0x84 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                                0x39e (size before relaxing)
+
+.comment        0x00000000      0x176
+ .comment       0x00000000       0x6e ./src/MemoryFileSystem.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/SPI_W25Qxx.o
+ .comment       0x0000006e       0x6f ./src/SpiDac.o
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc11.o
+ .comment       0x0000006e       0x70 ./src/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x000000de       0x6f ./src/uart.o
+ .comment       0x000000de       0x2a E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                                 0x2b (size before relaxing)
+ .comment       0x00000108       0x6e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                                 0x6f (size before relaxing)
+ .comment       0x00000176       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 ./src/MemoryFileSystem.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/SPI_W25Qxx.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/SpiDac.o
+ .ARM.attributes
+                0x00000093       0x31 ./src/cr_startup_lpc11.o
+ .ARM.attributes
+                0x000000c4       0x31 ./src/main.o
+ .ARM.attributes
+                0x000000f5       0x31 ./src/uart.o
+ .ARM.attributes
+                0x00000126       0x33 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .ARM.attributes
+                0x00000159       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000018a       0x31 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000001bb       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x000001dc       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x000001fd       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x0000021e       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+.debug_frame    0x00000000      0x798
+ .debug_frame   0x00000000      0x160 ./src/MemoryFileSystem.o
+ .debug_frame   0x00000160      0x278 ./src/SPI_W25Qxx.o
+ .debug_frame   0x000003d8       0xac ./src/SpiDac.o
+ .debug_frame   0x00000484       0xb0 ./src/cr_startup_lpc11.o
+ .debug_frame   0x00000534      0x100 ./src/main.o
+ .debug_frame   0x00000634      0x120 ./src/uart.o
+ .debug_frame   0x00000754       0x44 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_macinfo  0x00000000     0x4a4c
+ .debug_macinfo
+                0x00000000     0x4a4c E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_pubnames
+                0x00000000       0x4f
+ .debug_pubnames
+                0x00000000       0x4f E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_pubtypes
+                0x00000000       0x36
+ .debug_pubtypes
+                0x00000000       0x36 E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)

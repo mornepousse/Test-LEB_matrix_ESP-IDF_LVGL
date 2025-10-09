@@ -1,0 +1,21 @@
+src/MemoryFileSystem.o src/MemoryFileSystem.d: ../src/MemoryFileSystem.c \
+ ../src/SPI_W25Qxx.h ../src/MemoryFileSystem.h \
+ E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/LPC11xx.h \
+ E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cm0.h \
+ E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cmInstr.h \
+ E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cmFunc.h \
+ E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/system_LPC11xx.h
+
+../src/SPI_W25Qxx.h:
+
+../src/MemoryFileSystem.h:
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/LPC11xx.h:
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cm0.h:
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cmInstr.h:
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/core_cmFunc.h:
+
+E:\LEMIA\PROJECTS\BRUITEUR_SDP\MCU\CMSISv2p00_LPC11xx\inc/system_LPC11xx.h:

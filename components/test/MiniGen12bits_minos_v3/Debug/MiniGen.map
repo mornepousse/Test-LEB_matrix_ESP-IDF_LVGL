@@ -1,0 +1,268 @@
+Archive member included because of file (symbol)
+
+C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                              ./src/cr_startup_lpc11.o (SystemInit)
+c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11.o (__main)
+c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+                              C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o) (__aeabi_uidiv)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .data          0x00000000        0x0 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .bss           0x00000000        0x0 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x9c C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .rodata.CSWTCH.6
+                0x00000000       0x40 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .data.SystemCoreClock
+                0x00000000        0x4 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idivmod
+                0x00000000        0x6 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_uidivmod
+                0x00000000       0x72 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000       0x5a c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x32 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_ldiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+ .text.__aeabi_division_idivq31+15
+                0x00000000      0x188 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc11.o
+LOAD ./src/main.o
+LOAD C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00008000                __top_MFlash32 = 0x8000
+                0x10002000                __top_RamLoc8 = 0x10002000
+
+.text           0x00000000      0x398
+ FILL mask 0xff
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x398 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x0 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000000 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x4 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x7c ./src/cr_startup_lpc11.o
+                0x000000d4                NMI_Handler
+                0x000000d8                HardFault_Handler
+                0x000000dc                SVC_Handler
+                0x000000e0                PendSV_Handler
+                0x000000e4                SysTick_Handler
+                0x000000e8                data_init
+                0x000000fa                bss_init
+                0x0000010c                ResetISR
+                0x0000014c                TIMER32_1_IRQHandler
+                0x0000014c                IntDefaultHandler
+                0x0000014c                PIOINT1_IRQHandler
+                0x0000014c                CAN_IRQHandler
+                0x0000014c                TIMER32_0_IRQHandler
+                0x0000014c                TIMER16_0_IRQHandler
+                0x0000014c                TIMER16_1_IRQHandler
+                0x0000014c                ADC_IRQHandler
+                0x0000014c                SSP1_IRQHandler
+                0x0000014c                PIOINT2_IRQHandler
+                0x0000014c                BOD_IRQHandler
+                0x0000014c                WAKEUP_IRQHandler
+                0x0000014c                PIOINT0_IRQHandler
+                0x0000014c                I2C_IRQHandler
+                0x0000014c                WDT_IRQHandler
+                0x0000014c                UART_IRQHandler
+                0x0000014c                SSP0_IRQHandler
+                0x0000014c                PIOINT3_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000150      0x1ac ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x00000300       0x14 ./src/main.o
+                0x00000300                main
+ .text.SystemInit
+                0x00000314       0x7c C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                0x00000314                SystemInit
+ .text.__weak_main
+                0x00000390        0x8 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00000390                __weak_main
+                0x00000390                __main
+ *(.rodata .rodata.*)
+                0x00000398                . = ALIGN (0x4)
+
+.glue_7         0x00000398        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00000398        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000398        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000398        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000398                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000398                __exidx_end = .
+                0x00000398                _etext = .
+
+.uninit_RESERVED
+ *(.bss.$RESERVED*)
+
+.data           0x10000000        0x0 load address 0x00000398
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _edata = .
+
+.bss            0x10000000        0x4 load address 0x00000398
+                0x10000000                _bss = .
+ *(.bss*)
+ .bss.i.1493    0x10000000        0x4 ./src/main.o
+ *(COMMON)
+                0x10000004                . = ALIGN (0x4)
+                0x10000004                _ebss = .
+                0x10000004                PROVIDE (end, .)
+                0x10000004                PROVIDE (_pvHeapStart, .)
+                0x10002000                PROVIDE (_vStackTop, (__top_RamLoc8 - 0x0))
+OUTPUT(MiniGen.axf elf32-littlearm)
+
+.debug_abbrev   0x00000000      0x268
+ .debug_abbrev  0x00000000      0x107 ./src/cr_startup_lpc11.o
+ .debug_abbrev  0x00000107       0x75 ./src/main.o
+ .debug_abbrev  0x0000017c       0xec C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_info     0x00000000      0x859
+ .debug_info    0x00000000      0x29a ./src/cr_startup_lpc11.o
+ .debug_info    0x0000029a       0xbd ./src/main.o
+ .debug_info    0x00000357      0x502 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_line     0x00000000      0xbfc
+ .debug_line    0x00000000      0x3d9 ./src/cr_startup_lpc11.o
+ .debug_line    0x000003d9      0x44b ./src/main.o
+ .debug_line    0x00000824      0x3d8 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_macinfo  0x00000000     0xc4cc
+ .debug_macinfo
+                0x00000000     0x30bb ./src/cr_startup_lpc11.o
+ .debug_macinfo
+                0x000030bb     0x49bc ./src/main.o
+ .debug_macinfo
+                0x00007a77     0x4a55 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_loc      0x00000000      0x3e9
+ .debug_loc     0x00000000      0x2e1 ./src/cr_startup_lpc11.o
+ .debug_loc     0x000002e1       0x2c ./src/main.o
+ .debug_loc     0x0000030d       0xdc C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_pubnames
+                0x00000000      0x135
+ .debug_pubnames
+                0x00000000       0xbe ./src/cr_startup_lpc11.o
+ .debug_pubnames
+                0x000000be       0x28 ./src/main.o
+ .debug_pubnames
+                0x000000e6       0x4f C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_pubtypes
+                0x00000000       0x5a
+ .debug_pubtypes
+                0x00000000       0x12 ./src/cr_startup_lpc11.o
+ .debug_pubtypes
+                0x00000012       0x12 ./src/main.o
+ .debug_pubtypes
+                0x00000024       0x36 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x60 ./src/cr_startup_lpc11.o
+ .debug_aranges
+                0x00000060       0x20 ./src/main.o
+ .debug_aranges
+                0x00000080       0x28 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_ranges   0x00000000       0x78
+ .debug_ranges  0x00000000       0x50 ./src/cr_startup_lpc11.o
+ .debug_ranges  0x00000050       0x10 ./src/main.o
+ .debug_ranges  0x00000060       0x18 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+
+.debug_str      0x00000000      0x52f
+ .debug_str     0x00000000      0x1de ./src/cr_startup_lpc11.o
+                                0x206 (size before relaxing)
+ .debug_str     0x000001de       0x1c ./src/main.o
+                                 0xee (size before relaxing)
+ .debug_str     0x000001fa      0x335 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+                                0x3ba (size before relaxing)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a ./src/cr_startup_lpc11.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b ./src/main.o
+ .comment       0x00000000       0x2b C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .comment       0x00000000       0x2b c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc11.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000066       0x33 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
+ .ARM.attributes
+                0x00000099       0x33 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000000cc       0x23 c:/nxp/lpcxpresso_4.2.2_275/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/armv6-m\libcr_eabihelpers.a(division.o)
+
+.debug_frame    0x00000000      0x158
+ .debug_frame   0x00000000       0xe8 ./src/cr_startup_lpc11.o
+ .debug_frame   0x000000e8       0x2c ./src/main.o
+ .debug_frame   0x00000114       0x44 C:\Documents and Settings\user\My Documents\LEMIA\PROJECTS\MCU\CMSISv2p00_LPC11xx\Debug\libCMSISv2p00_LPC11xx.a(system_LPC11xx.o)
