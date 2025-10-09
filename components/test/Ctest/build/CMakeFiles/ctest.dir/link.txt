@@ -1,0 +1,1 @@
+/usr/lib/ccache/bin/cc -Wl,--dependency-file=CMakeFiles/ctest.dir/link.d CMakeFiles/ctest.dir/src/main.c.o -o ctest

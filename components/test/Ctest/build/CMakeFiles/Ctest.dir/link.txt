@@ -1,0 +1,1 @@
+/usr/lib/ccache/bin/cc CMakeFiles/Ctest.dir/src/main.c.o CMakeFiles/Ctest.dir/src/sp_manager.c.o -o Ctest

@@ -1,0 +1,2 @@
+source /home/mae/Documents/test/Mase_Test/build/bootloader/gdbinit/symbols
+source /home/mae/Documents/test/Mase_Test/build/bootloader/gdbinit/connect

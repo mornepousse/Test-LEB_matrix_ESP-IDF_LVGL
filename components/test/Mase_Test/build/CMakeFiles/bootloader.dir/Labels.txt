@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/mae/Documents/test/Mase_Test/build/CMakeFiles/bootloader
+/home/mae/Documents/test/Mase_Test/build/CMakeFiles/bootloader.rule
+/home/mae/Documents/test/Mase_Test/build/CMakeFiles/bootloader-complete.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/mae/Documents/test/Mase_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
