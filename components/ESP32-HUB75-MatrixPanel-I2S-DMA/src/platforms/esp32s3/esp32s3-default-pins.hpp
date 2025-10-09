@@ -1,0 +1,18 @@
+#pragma once
+
+// Avoid and QSPI pins
+
+#define R1_PIN_DEFAULT GPIO_NUM_40
+#define G1_PIN_DEFAULT GPIO_NUM_39
+#define B1_PIN_DEFAULT GPIO_NUM_41
+#define R2_PIN_DEFAULT GPIO_NUM_42
+#define G2_PIN_DEFAULT GPIO_NUM_45
+#define B2_PIN_DEFAULT GPIO_NUM_46
+#define A_PIN_DEFAULT  GPIO_NUM_38
+#define B_PIN_DEFAULT  GPIO_NUM_37
+#define C_PIN_DEFAULT  GPIO_NUM_36
+#define D_PIN_DEFAULT  GPIO_NUM_35
+#define E_PIN_DEFAULT  GPIO_NUM_33 // required for 1/32 scan panels, like 64x64. Any available pin would do, i.e. IO32
+#define LAT_PIN_DEFAULT GPIO_NUM_26
+#define OE_PIN_DEFAULT  GPIO_NUM_34
+#define CLK_PIN_DEFAULT GPIO_NUM_21
